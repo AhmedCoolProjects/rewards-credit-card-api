@@ -45,28 +45,28 @@
   background: linear-gradient(60deg, #fff, #ebecf1);
 }
 aside {
-  background: linear-gradient(150deg, #fff, #ebecf1);
+  background: transparent;
 }
 
 .docMainContainer_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocPage-styles-module,
 .docMainContainer_TCnq {
-  background: radial-gradient(#ebecf1, #fff) !important;
+  background: transparent !important;
 }
 
 [data-theme="dark"] .navbar--fixed-top {
   background: linear-gradient(30deg, #000417, #000728);
 }
 [data-theme="dark"] aside {
-  background: linear-gradient(120deg, #000417, #000728);
+  background: transparent;
 }
 
 [data-theme="dark"] .docMainContainer_TCnq {
-  background: radial-gradient(#000728, #000417) !important;
+  background: transparent !important;
 }
 
 [data-theme="dark"]
   .docMainContainer_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocPage-styles-module {
-  background: radial-gradient(#000728, #000417) !important;
+  background: transparent !important;
 }
 .footer {
   background: linear-gradient(-30deg, #fff, #ebecf1);
