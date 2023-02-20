@@ -69,7 +69,7 @@ const config = {
     footer: {
       style: "light",
 
-      copyright: `Copyright © ${new Date().getFullYear()} XXXX.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Rewards credit card API.`,
     },
     prism: {
       theme: lightCodeTheme,
