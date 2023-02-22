@@ -47,12 +47,7 @@ const config = {
   ],
 
   themeConfig: {
-    autoCollapseSidebarCategories: true,
-    // algolia: {
-    //   apiKey: "xxxx",
-    //   appId: "xxxx",
-    //   indexName: "prod_index",
-    // },
+    docs: { sidebar: { autoCollapseCategories: true } },
     navbar: {
       logo: {
         alt: "LOGO",
